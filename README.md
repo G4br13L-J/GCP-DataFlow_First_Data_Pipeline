@@ -47,7 +47,13 @@ The dataset contains fictional employee information such as names, job titles, d
 - Moving data from **Cloud Storage to BigQuery** efficiently.
 
 ---
+## 📷 Screenshots
 
+<img width="1082" height="771" alt="image" src="https://github.com/user-attachments/assets/a783fb84-9197-4495-8e90-7868e8c2f89e" />
+<img width="1444" height="698" alt="image" src="https://github.com/user-attachments/assets/48c29e1c-4a36-424f-bd29-dfe5973ee6bc" />
+<img width="1823" height="851" alt="image" src="https://github.com/user-attachments/assets/2f7bd1b4-19ad-4969-b067-ef6a32d648e0" />
+
+---
 ## 📹 Reference
 
 This project follows the tutorial by **Vishal Bulbule**'s channel '**TechTrapture**' on YouTube:
